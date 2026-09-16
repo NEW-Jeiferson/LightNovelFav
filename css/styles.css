@@ -13,13 +13,13 @@ body {
 header {
   text-align: center;
   padding: 20px;
-  background-color: #5f0cbd;
+  background-color: #100f44;
 }
 
 nav {
   display: flex;
   justify-content: center;
-  gap: 20px;
+  gap: 20px; 
 }
 
 nav a {
@@ -41,7 +41,7 @@ main {
 }
 
 article {
-  background-color: #6a4dac;
+  background-color: #373583;
   padding: 20px;
   border-radius: 15px;
   display: flex;
@@ -74,4 +74,8 @@ article img {
 footer {
   text-align: center;
   padding: 20px;
+}
+
+h3 {
+  color: #000000;
 }
